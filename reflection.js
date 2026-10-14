@@ -1,1 +1,1 @@
-console.log("my reflection during intrams are...... ");
+console.log("My Reflection During Intramurals I experienced fun, excitement, and teamwork with my classmates. I learned that winning is not the most important thing, but enjoying the games, respecting others, and supporting our team. I also learned the importance of cooperation, discipline, and sportsmanship. Even when we feel tired, we should continue to do our best and encourage one another. Overall, intramurals gave me happy memories and taught me valuable lessons that I can use in my daily life ");
